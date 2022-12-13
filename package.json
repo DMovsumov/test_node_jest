@@ -1,0 +1,26 @@
+{
+  "name": "test_node_jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DMovsumov/test_node_jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMovsumov/test_node_jest/issues"
+  },
+  "homepage": "https://github.com/DMovsumov/test_node_jest#readme",
+  "devDependencies": {
+    "@jest/globals": "^29.3.1",
+    "@types/jest": "^29.2.4",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3"
+  }
+}
